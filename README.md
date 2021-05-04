@@ -2,6 +2,8 @@
 
 This project was made to help the people get details of any covid-19 vaccination center. It gets the data from Co-Win Public APIs. I have also added a custom script which will email the user if their is any vaccine available in his area. The script fetch data from the server in every 6 seconds and if it finds any available spots it sends a email to the user with all the details. For sending emails, it uses emailjs-com javascript library.
 
+## I've compiled the code and build an android application using ionic and capacitor. To get the application go to : android > app > release > Covid-19 Vaccine Tracker.apk. Hope you find it useful!
+
 ## If anyone finds any new cool features that I can add feel free to start a pull request. 😄
 
 ## Available Scripts
