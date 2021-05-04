@@ -1,0 +1,5 @@
+io/ionic/covidVaccineTracker/BuildConfig.java
+ io.ionic.covidVaccineTracker.BuildConfig
+io/ionic/covidVaccineTracker/MainActivity.java
+ io.ionic.covidVaccineTracker.MainActivity
+ io.ionic.covidVaccineTracker.MainActivity$1
